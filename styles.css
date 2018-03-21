@@ -31,19 +31,40 @@ body {
 }
 
 .author {
+    text-align: center;
+    
 }
 .author img {
+    border: 4px solid white;
+    border-radius: 50%;
+    margin-top: -50px;
+   
+
 }
 .author p {
+    font-size-adjust: 0,9em;
+    font-style: italic;
+
 }
 
 .article {
+    margin: auto;
+    width: 70%;
+
 }
 .article figure {
+    margin-left: 0;
+
 }
 .article figure img {
+    width: 90%;
+   
 }
 .article figure figcaption {
+    margin-left: -20em;
+    width: 11,5em;
+    font-size: 0.5em;
+    float: left;
 }
 
 #map {
@@ -59,6 +80,7 @@ body {
 a:link, a:visited {
 }
 .gray, .gray a:link, .gray a:visited {
+    color: lightslategray;
 }
 .white, .white a:link, .white a:visited {
     color: white;
