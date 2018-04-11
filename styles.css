@@ -63,10 +63,11 @@ body {
    
 }
 .article figure figcaption {
-    margin-left: -20em;
+    margin-left: -12em;
     width: 11.5em;
-    font-size: 0.5em;
+    font-size: 0.9em;
     float: left;
+    
 }
 
 #map {
