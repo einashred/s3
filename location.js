@@ -12,3 +12,4 @@ window.addEventListener("load", function () {
     
             L.marker([lat, lng]).addTo(map).bindPopup(tit).openPopup(); 
             });
+            
